@@ -15,8 +15,6 @@ app.use(express.json());
 
 app.use('/api/notes', routes);
 
-connectDB().then(() => {
-  app.listen(PORT, () => {
-    console.log('Server started on PORT:', PORT);
-  });
-});
+connectDB()
+
+export default app;
