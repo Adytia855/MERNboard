@@ -9,7 +9,7 @@ import toast from 'react-hot-toast'
 const HomePage = () => {
   const [rateLimited, setRateLimited] = useState(false);
   const [notes, setNotes] = useState([]);
-  const [loading, setLoading] = useState([true]);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const fetchNotes = async () => {
