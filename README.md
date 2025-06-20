@@ -1,15 +1,17 @@
 # 📝 MERNboard
+![GitHub repo size](https://img.shields.io/github/repo-size/Adytia855/MERNboard)
+![GitHub last commit](https://img.shields.io/github/last-commit/Adytia855/MERNboard)
+![GitHub issues](https://img.shields.io/github/issues/Adytia855/MERNboard)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Adytia855/MERNboard)
+![License: MIT](https://img.shields.io/github/license/Adytia855/MERNboard)
+![Made with MERN](https://img.shields.io/badge/Stack-MERN-blueviolet)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel)
+![Upstash](https://img.shields.io/badge/API%20Rate%20Limit-Upstash%20Redis-red?logo=redis)
 
 MERNboard is a full-stack web application for simple note-taking. Built using the **MERN** stack (MongoDB, Express.js, React, Node.js), it allows users to **create**, **read**, **update**, and **delete** notes with a clean, modern interface.
-
+![UI Preview](client/public/preview.jpg)
 ---
 
-## 🌐 Live Demo
-
-🚀 Coming Soon\
-*(Deploy it on *[*Vercel*](https://vercel.com)*, *[*Render*](https://render.com)*, or *[*Railway*](https://railway.app)* and update this section)*
-
----
 
 ## ✨ Features
 
@@ -22,7 +24,6 @@ MERNboard is a full-stack web application for simple note-taking. Built using th
 - 🔐 **Custom Middleware** (rate limiter)
 - 🔄 **Reusable Components**: Navbar, NoteCard, etc.
 
----
 
 ## 🏗️ Tech Stack
 
@@ -162,22 +163,9 @@ UPSTASH_REDIS_REST_TOKEN=your_upstash_token_here
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots or GIFs here to showcase the app.
-
----
-
 ## 📜 License
 
 MIT License © 2025 [Adytia855](https://github.com/Adytia855)
-
----
-
-## 🔗 Related Projects
-
-- [🔗 My Portfolio](https://github.com/Adytia855/Portfolio)
-- [🌍 Deployed Site (soon)](https://your-deployment-link)
 
 ---
 
