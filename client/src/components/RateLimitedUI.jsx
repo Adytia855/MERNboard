@@ -1,5 +1,13 @@
 import { ZapIcon } from "lucide-react";
 
+/**
+ * @component RateLimitedUI
+ * @description A React component that displays a message indicating that the user has been rate-limited.
+ * It shows an icon, a title, and a descriptive message advising the user to wait and try again.
+ * This component is typically shown when an API or service returns a 429 Too Many Requests error.
+ *
+ * @returns {JSX.Element} The JSX code for the rate limit message UI.
+ */
 const RateLimitedUI = () => {
   return (
     <div className="max-w-6xl mx-auto px-4 py-8">
